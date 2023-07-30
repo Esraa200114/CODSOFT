@@ -6,6 +6,7 @@
 ## Output
 ### https://github.com/Esraa200114/CODSOFT/assets/83236742/14d100af-38a0-48d8-a1fe-e9b99723f2fd
 
+## Covered Rules
 ### 1. UI Design: The layout contains a single screen with a toggle button (`flashlightSwitch`) to control the flashlight. The `Switch` is provided for the user to turn the flashlight on and off.
 
 ### 2. Flashlight Functionality: The code checks for the availability of a camera flash on the device using `getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH)`. If the device has a camera flash, it will use the `CameraManager` to turn on and off the flashlight based on the user's input (`isChecked` parameter).
