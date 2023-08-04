@@ -22,7 +22,7 @@
 ### https://github.com/Esraa200114/CODSOFT/assets/83236742/08012b49-5b86-4606-bc45-74db21fd2719
 
 ## Covered Rules
-### 1. UI Design: The layout includes number buttons (0–9) and operator buttons (+, -, x, /), along with a display area to show the entered numbers, the operation being performed, and the results. 
+### 1. UI Design: The layout includes an equal button (=), a clear button , a clear-all button (AC), a dot character button (.), number buttons (0–9) and operator buttons (+, -, x, /), along with a display area to show the entered numbers, the operation being performed, and the results. 
 
 ### 2. Number Input: The `onNumberClickEvent` method captures user input when number buttons are pressed and stores the entered numbers for further processing. 
 
