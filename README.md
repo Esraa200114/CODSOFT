@@ -45,5 +45,5 @@
 #### 6. Starting with an operator without providing the first operand.
 #### 7. Pressing the equal button without entering operands first.
 
-### Handling Overflow: By checking if a BigDecimal variable called `output_big_decimal` exceeds the maximum value that can be represented by a double data type in Java. If it does, it is considered an overflow and a flag is set to `true` to indicate the overflow. The text color of the result field is changed to red and a text saying "Overflow occurred" is displayed in it. Otherwise, if no overflow is detected, the output is formated using the "FormatBigDecimal" function and the BigDecimal value is displayed in the result field.
+### 8. Handling Overflow: By checking if a BigDecimal variable called `output_big_decimal` exceeds the maximum value that can be represented by a double data type in Java. If it does, it is considered an overflow and a flag is set to `true` to indicate the overflow. The text color of the result field is changed to red and a text saying "Overflow occurred" is displayed in it. Otherwise, if no overflow is detected, the output is formated using the "FormatBigDecimal" function and the BigDecimal value is displayed in the result field.
 
