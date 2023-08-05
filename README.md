@@ -36,7 +36,7 @@
 
 ### 7. Error Handling: The code includes various checks for error handling. For example, it shows appropriate messages for invalid input and operations and handles the display of errors in the result area.
 
-### Invalid Operations and input such as:
+### ~ Invalid Operations and input such as:
 #### 1. Division by zero.
 #### 2. Having more than one decimal point in a number.
 #### 3. Entering consecutive decimal points.
